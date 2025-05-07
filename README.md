@@ -46,9 +46,21 @@ AcademiGo is a modern, web-based application designed to streamline and enhance 
 - 📷 **QR Code Generation:** `api.qrserver.com` (client-side generation for attendance)
 - 🔔 **Notifications:** `react-hot-toast` (via `useToast` hook)
 - 📅 **Date Management:** `date-fns`
-- 🤖 **AI (Optional/Planned):** Genkit (Google AI) - `ai-instance.ts` suggests potential integration.
 - 💾 **Local Storage:** Used for persisting some user preferences and mock data for offline-first feel during development.
 
+
+
+## 📎 Project Documents
+
+Access key project documents related to planning, research, and presentation:
+
+| 📄 Document         | Description                              | Link                                                                                       |
+| ------------------- | ---------------------------------------- | ------------------------------------------------------------------------------------------ |
+| 📝 **Survey Data**  | Raw data collected from student feedback | [View Survey Data](https://github.com/Zensphnix/AcademiGoo/blob/master/Survey%20data.docx) |
+| 📚 **Synopsis**     | Project synopsis and concept overview    | [View Synopsis](https://github.com/Zensphnix/AcademiGoo/blob/master/Symposis.docx)         |
+| 📊 **Presentation** | Final presentation slides (PPT)          | [View Presentation](https://github.com/Zensphnix/AcademiGoo/blob/master/AcademiHo.pptx)    |
+
+ 
 ## 🚀 Getting Started
 
 ### ✅ Prerequisites
