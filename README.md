@@ -174,6 +174,6 @@ Thanks to the amazing contributors who help improve this project:
 | Name                   | Role                 | GitHub                                             |
 | ---------------------- | -------------------- | -------------------------------------------------- |
 | 🧑‍💻 Shashi     | Lead Developer       | [@Zensphnix](https://github.com/Zensphnix)     |
-| 👩‍🎨 \[Contributor A] | UI/UX Designer       | [@contributor-a](https://github.com/contributor-a) |
+| 👩‍🎨 Riya | UI/UX Designer       | [@riyagoyalll](https://github.com/riyagoyalll) |
 | 🧪 \[Contributor B]    | QA & Testing         | [@contributor-b](https://github.com/contributor-b) |
 | 📘 \[Contributor C]    | Documentation Writer | [@contributor-c](https://github.com/contributor-c) |
