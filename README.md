@@ -183,9 +183,9 @@ Please follow these steps:
 
 Thanks to the amazing contributors who help improve this project:
 
-| Name                   | Role                 | GitHub                                             |
-| ---------------------- | -------------------- | -------------------------------------------------- |
-| 🧑‍💻 Shashi     | Lead Developer       | [@Zensphnix](https://github.com/Zensphnix)     |
-| 👩‍🎨 Riya | UI/UX Designer       | [@riyagoyalll](https://github.com/riyagoyalll) |
-| 🧪 \[Contributor B]    | QA & Testing         | [@contributor-b](https://github.com/contributor-b) |
-| 📘 \[Contributor C]    | Documentation Writer | [@contributor-c](https://github.com/contributor-c) |
+| Name                        | Role                 | GitHub                                         |
+| ----------------------------| -------------------- | -----------------------------------------------|
+| 🧑‍💻 Shashi 2401730138     | Lead Developer       | [@Zensphnix](https://github.com/Zensphnix)     |
+| 👩‍🎨 Riya 2401730215         | UI/UX Designer       | [@riyagoyalll](https://github.com/riyagoyalll) |
+| 🧪 Deepak 2401730152       | QA & Testing         | [@deepakk-hub](https://github.com/deepakk-hub) | 
+| 📘 Suhani 2401730139       | Documentation Writer | [@contributor-c](https://github.com/contributor-c) |
